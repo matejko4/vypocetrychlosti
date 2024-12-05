@@ -1,2 +1,2 @@
-# vypocetrychlosti
-ukol
+# ukol
+vypocetrychlosti
